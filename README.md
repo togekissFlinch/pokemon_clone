@@ -13,10 +13,11 @@ Ubuntu
 
 ```
 pip3 install pygame
-
 ```
 
 ## how to run it ?
 
+```
 python3 main.py
+```
 
